@@ -1,0 +1,49 @@
+<url>
+  <loc>https://alexandrarothenberg.github.io/alexdesign.rocks/{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.changefreq %}
+  <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}
+  {% if include.entry.priority %}
+  <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+</url>
+
+<url>
+ <loc>https://alexandrarothenberg.github.io/alexdesign.rocks/kraken/{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.changefreq %}
+  <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}
+  {% if include.entry.priority %}
+  <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+</url>
+
+<url>
+ <loc>https://alexandrarothenberg.github.io/alexdesign.rocks/elephant/{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.changefreq %}
+  <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}
+  {% if include.entry.priority %}
+  <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+</url>
+
+<url>
+ <loc>https://alexandrarothenberg.github.io/alexdesign.rocks/vinta/{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.changefreq %}
+  <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}
+  {% if include.entry.priority %}
+  <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+</url>
+
+<url>
+ <loc>https://alexandrarothenberg.github.io/alexdesign.rocks/coming/{{site.baseurl}}{{include.entry.url}}</loc>
+  {% if include.entry.changefreq %}
+  <changefreq>{{include.entry.changefreq}}</changefreq>
+  {% endif %}
+  {% if include.entry.priority %}
+  <priority>{{include.entry.priority}}</priority>
+  {% endif %}
+</url>
