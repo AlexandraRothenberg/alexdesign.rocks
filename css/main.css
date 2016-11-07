@@ -97,7 +97,7 @@ p{
 }
 
 .background {
-  padding-top: 16em;
+  padding-top: 7em;
 }
 
 @media only screen and (min-width:608px){
@@ -143,6 +143,9 @@ p{
         width:70px;
         margin: 1rem;
     }
+    .background {
+    padding-top: 12em;
+  }
 }
 
 @media only screen and (min-width:77em){
@@ -172,4 +175,7 @@ p{
          width: 90px;
          margin: 1.3rem;
      }
+    .background {
+  padding-top: 16em;
+}
 }  
