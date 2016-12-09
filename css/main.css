@@ -36,6 +36,13 @@ a {
   max-height: 130px;
 }
 
+.banner-top {
+  overflow: hidden;
+  padding: 90px;
+  position: relative;
+  max-height: 90px;
+}
+
 .decription {
   padding-bottom: 10em;
 }
@@ -94,6 +101,13 @@ p{
   width: 100%;
   height: auto;
   padding-bottom: 3em;
+}
+
+project-top img{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
 }
 
 .background {
