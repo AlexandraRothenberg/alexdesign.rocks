@@ -146,7 +146,7 @@ error {
 @media only screen and (min-width:46.5em){
     
     h1{
-        font-size: 4em;
+        font-size: :4em;
         bottom: 50%;
     }
     h3{
@@ -172,7 +172,7 @@ error {
 @media only screen and (min-width:77em){
     
     h1{
-        font-size: 6em;
+        font-size: :6em;
         bottom: 50%;
     }
     h3{
